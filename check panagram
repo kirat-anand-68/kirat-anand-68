@@ -1,9 +1,19 @@
-function isPangram(Word){
-    let arr=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'];
-if( numbers of arr){
-    if(Word.indexOf(numbers)===-1){
-        return false;
+function isPangram(Word) {
+    let arr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+    
+    // Convert the word to lowercase for case insensitivity
+    Word = Word.toLowerCase();
+    
+    // Check if each letter of the alphabet is present in the word
+    for (let letter of arr) {
+        if (Word.indexOf(letter) === -1) {
+            return false;
+        }
     }
-}
+    
     return true;
 }
+
+let testWord = "The quick brown fox jumps over a lazy dog";
+console.log(isPangram(testWord));  // Should return true
+
