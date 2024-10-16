@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kiratanand68@gmail.com /kiratanand36@gmail.com**
 
-- 📄 Know about my experiences [I am currently Second Year UG Student Gaining some Experience By practising and revising the things](I am currently Second Year UG Student Gaining some Experience By practising and revising the things)
+- 📄 Know about my experiences [I am currently Second Year UG Student Gaining some Experience By practising and revising the things].
 
 - ⚡ Fun fact **I am Funny and I used to Talk alot 😁**
 
