@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
 <h3 align="center">A Data Science Enthusiast and a Passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kiratanand68@gmail.com /kiratanand36@gmail.com**
 
-- 📄 Know about my experiences [I am currently Second Year UG Student Gaining some Experience By practising and revising the things].
+- 📄 Know about my experiences I am currently Second Year UG Student Gaining some Experience By practising and revising the things.
 
 - ⚡ Fun fact **I am Funny and I used to Talk alot 😁**
 
