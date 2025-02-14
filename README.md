@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=6c09b952dc03kxcfz96c8qnwfeai8wrblfmtxxqzo9xh4zr4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="5000" height="400">
+<img src="https://miro.medium.com/max/2148/1*oeK4EpsQx8S2h5D-J-x-BQ.gif" width="5000" height="400">
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
 <h3 align="center">A Data Science Enthusiast and a Passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
