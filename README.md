@@ -1,17 +1,17 @@
 <img src="https://miro.medium.com/max/2148/1*oeK4EpsQx8S2h5D-J-x-BQ.gif" width="5000" height="400">
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
-<h3 align="center">A Data Science Enthusiast and a Passionate developer from India</h3>
+<h3 align="center">A Data Science and Data Analytics Enthusiast </h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
-- 🌱 I’m currently learning **Java , Mern Stack**
+- 🌱 I’m currently learning about the data science engineering
 
-- 💬 Ask me about **Python and Frontened Development**
+- 💬 Ask me about **Python and SQL**
 
 - 📫 How to reach me **kiratanand68@gmail.com /kiratanand36@gmail.com**
 
-- 📄 Know about my experiences I am currently Second Year UG Student Gaining some Experience By practising and revising the things.
+- 📄 Know about my experiences I am currently Third Year UG Student Gaining some Experience By practising and revising the things.
 
-- ⚡ Fun fact **I am Funny and I used to Talk alot 😁**
+- ⚡ Fun fact ** There is no fun fact focus on studying!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
