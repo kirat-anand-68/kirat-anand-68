@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
-<h3 align="center">Aspiring Data Analyst | CS Undergrad | GATE 2026 Aspirant</h3>
+<h3 align="center">Aspiring Data Analyst | CS Undergrad | Competitive Exam Aspirant</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 B.Tech Computer Science student, passionate about solving real-world problems with data and code.
 - 📊 Currently undergoing **Industrial Training in SQL & Power BI**.
 - 🧠 Learning and building projects in **EDA, Python, Machine Learning, and Web Development**.
-- 🎯 Preparing for **GATE 2026**, with focus on DBMS, OS, DSA, CN, and Aptitude.
+- 🎯 Preparing for **Competitive Exam **, with focus on DBMS, OS, DSA, CN, and Aptitude.
 - 📘 I love exploring technologies like **LaTeX**, **scikit-learn**, and **Seaborn** for academic and data visualization tasks.
 
 ---
@@ -63,6 +63,5 @@
 ---
 
 ### 📬 Connect with Me
-
-- 💼 LinkedIn: [linkedin.com/in/kirat-anand](#) *(Add your link)*
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- Instagram- kirat_anand_2004
+- 📧 Email: kiratanad36@gmail.com/ kiratanand68@gmail.com
