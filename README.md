@@ -1,31 +1,68 @@
-<img src="https://miro.medium.com/max/2148/1*oeK4EpsQx8S2h5D-J-x-BQ.gif" width="5000" height="400">
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
-<h3 align="center">A Data Science and Data Analytics Enthusiast </h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<h3 align="center">Aspiring Data Analyst | CS Undergrad | GATE 2026 Aspirant</h3>
 
-- 🌱 I’m currently learning about the data science engineering
+---
 
-- 💬 Ask me about **Python and SQL**
+### 👨‍💻 About Me
 
-- 📫 How to reach me **kiratanand68@gmail.com /kiratanand36@gmail.com**
+- 🎓 B.Tech Computer Science student, passionate about solving real-world problems with data and code.
+- 📊 Currently undergoing **Industrial Training in SQL & Power BI**.
+- 🧠 Learning and building projects in **EDA, Python, Machine Learning, and Web Development**.
+- 🎯 Preparing for **GATE 2026**, with focus on DBMS, OS, DSA, CN, and Aptitude.
+- 📘 I love exploring technologies like **LaTeX**, **scikit-learn**, and **Seaborn** for academic and data visualization tasks.
 
-- 📄 Know about my experiences I am currently Third Year UG Student Gaining some Experience By practising and revising the things.
+---
 
-- ⚡ Fun fact ** There is no fun fact focus on studying!!!**
+### 💻 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@kiratanand93275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kiratanand93275" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kirat anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirat anand" height="30" width="40" /></a>
-<a href="https://instagram.com/_kirat_anand2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kirat_anand2004" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kirat" height="30" width="40" /></a>
+#### 🐍 Programming & Scripting
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+#### 🧠 Data Science & ML
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-teal)
+
+#### 🌐 Web Development
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+
+#### 🗃️ Database & BI Tools
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+#### 📄 Others
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- ☕ [Coffee Maker Machine](https://github.com/kirat-anand-68/coffee-maker) – OOPs-based simulation in Python
+- 📊 [Industrial Training: SQL + Power BI](https://github.com/kirat-anand-68/Industrial-Training) – Training logs and exercises
+- 📈 *More to come: Linear Regression, EDA projects, and ML models...*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirat-anand-68&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirat-anand-68&theme=tokyonight" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirat-anand-68&show_icons=true&locale=en&layout=compact" alt="kirat-anand-68" /></p>
+### 📬 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirat-anand-68&show_icons=true&locale=en" alt="kirat-anand-68" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirat-anand-68&" alt="kirat-anand-68" /></p>
+- 💼 LinkedIn: [linkedin.com/in/kirat-anand](#) *(Add your link)*
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
