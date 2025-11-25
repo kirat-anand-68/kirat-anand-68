@@ -25,7 +25,7 @@ jobs:
             "TensorFlow was released by Google in 2015."
             "Big Data is generated at 2.5 quintillion bytes per day."
             "Data Scientists spend most time on feature engineering."
-            "A decision tree splits nodes based on maximum information gain."
+            
           )
 
           RANDOM_INDEX=$((RANDOM % ${#facts[@]}))
