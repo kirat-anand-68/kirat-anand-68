@@ -1,0 +1,36 @@
+name: Update Data Science Fact Daily
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual trigger for testing
+
+jobs:
+  update-readme:
+    name: Update Readme Fact
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Fact
+        run: |
+          # Read random fact
+          fact=$(shuf -n 1 facts.txt)
+          
+          # Escape for Markdown (basic)
+          fact_escaped=$(echo "$fact" | sed 's/"/\\"/g' | sed "s/'/\\'/g")
+          
+          # Update README (replace the placeholder line)
+          sed -i "s|<img src=\"https://ds-placeholder.kirat-anand-68.repl.co/fact\" />|$fact_escaped|" README.md
+          
+          # If no image, just set the fact as text
+          if ! grep -q "ds-placeholder" README.md; then
+            echo "### 📈 Data Science Fact of the Day" >> README.md
+            echo "<p align=\"center\">$fact_escaped</p>" >> README.md
+          fi
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Update daily data science fact"
+          file_pattern: README.md
