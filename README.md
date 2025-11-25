@@ -52,6 +52,18 @@
 - 📈 *More to come: Linear Regression, EDA projects, and ML models...*
 
 ---
+---
+
+### 🔍 Daily Auto-Updating Data Science Fact
+
+### 📈 Data Science Fact of the Day (Updates Automatically!)
+<p align="center">
+  <img src="https://ds-placeholder.kirat-anand-68.repl.co/fact" alt="Daily DS Fact" />
+  <!-- GitHub Action updates this daily from facts.txt -->
+</p>
+<p align="center"><strong>Today's Fact:</strong> [Placeholder will be replaced]</p>
+
+---
 
 ### 📊 GitHub Stats
 
