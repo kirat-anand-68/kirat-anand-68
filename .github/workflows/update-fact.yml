@@ -1,15 +1,19 @@
 name: Update Daily DS Fact
+
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # Runs every day at 00:00 UTC
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - name: Generate new fact
+        id: fact
         run: |
           facts=(
             "Machine learning models improve with more quality data."
@@ -17,12 +21,20 @@ jobs:
             "80% of data analysis time is spent on data cleaning."
             "Python is the most widely used data science language."
             "EDA helps you decide which ML model fits best."
+            "The first neural network was introduced in 1943."
+            "TensorFlow was released by Google in 2015."
+            "Big Data is generated at 2.5 quintillion bytes per day."
+            "Data Scientists spend most time on feature engineering."
+            "A decision tree splits nodes based on maximum information gain."
           )
-          echo "{\"fact\": \"${facts[$RANDOM % ${#facts[@]}]}\"}" > fact.json
-      - name: Commit changes
+
+          RANDOM_INDEX=$((RANDOM % ${#facts[@]}))
+          echo "${facts[$RANDOM_INDEX]}" > fact.json
+
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add fact.json
-          git commit -m "Daily fact updated" || exit 0
+          git commit -m "Updated daily DS fact" || echo "No changes to commit"
           git push
