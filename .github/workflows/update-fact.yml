@@ -2,7 +2,7 @@ name: Update Data Science Fact Daily
 
 on:
   schedule:
-    - cron: '30 18 * * *'   # Every day at 12:00 AM India time
+    - cron: '30 18 * * *'   # Daily at 12:00 AM IST
   workflow_dispatch:
 
 jobs:
@@ -11,24 +11,31 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Pick random fact and update README
+      - name: Pick and insert random fact
         run: |
-          FACT=$(shuf -n 1 facts.txt)
-          echo "Selected fact: $FACT"
+          # Safety check for facts.txt
+          if [ ! -f facts.txt ] || [ ! -s facts.txt ]; then
+            echo "ERROR: facts.txt missing or empty! Add facts first."
+            exit 1
+          fi
+          
+          # Pick random fact
+          FACT=$(shuf -n 1 facts.txt | sed 's/^"//' | sed 's/"$//')  # Strip quotes
+          echo "🤖 Selected fact: $FACT"
+          
+          if [ -z "$FACT" ]; then
+            echo "ERROR: No fact picked!"
+            exit 1
+          fi
+          
+          # Simple replacement: Swap the entire block
+          sed -i "/<!-- REPLACE_ME_TODAYS_FACT -->/,/<!-- END_REPLACE_ME -->/c\<!-- REPLACE_ME_TODAYS_FACT -->\n<p align=\"center\"><b>Today's Fact:</b> $FACT</p>\n<!-- END_REPLACE_ME -->" README.md
+          
+          # Update badge to "Live!"
+          sed -i 's/Data_Science_Fact_Live!-00ff00/Data Science Fact Updated!-green/' README.md
 
-          # Properly escape for sed
-          ESCAPED_FACT=$(echo "$FACT" | sed 's/[&\/\\]/\\&/g' | sed 's/|/\\|/g')
-
-          # Replace the exact block between the two placeholder lines
-          perl -i -pe "BEGIN{undef $/;} s/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->.*?<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->\n<p align=\"center\"><b>Today's Fact:<\/b> $ESCAPED_FACT<\/p>\n<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/s" README.md
-
-          # Change badge color to green when live
-          sed -i 's/Dynamic_Fact-Loading...-blue/Data Science Fact of the Day-00ff00/' README.md
-
-      - name: Commit and push
-        run: |
-          git config user.name "Daily Fact Bot"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Updated daily data science fact 🤖" || echo "No changes to commit"
-          git push || echo "No changes to push"
+      - name: Commit if changed
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🤖 Updated daily DS fact: $FACT"
+          add: README.md
