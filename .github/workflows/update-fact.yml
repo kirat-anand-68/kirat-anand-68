@@ -1,40 +1,26 @@
-name: Update Daily DS Fact
-
+name: Update Data Science Fact Daily
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs every day at 00:00 UTC
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Generate new fact
-        id: fact
+      - name: Update today's fact
         run: |
-          facts=(
-            "Machine learning models improve with more quality data."
-            "The term 'Data Science' was first coined in the 1960s."
-            "80% of data analysis time is spent on data cleaning."
-            "Python is the most widely used data science language."
-            "EDA helps you decide which ML model fits best."
-            "The first neural network was introduced in 1943."
-            "TensorFlow was released by Google in 2015."
-            "Big Data is generated at 2.5 quintillion bytes per day."
-            "Data Scientists spend most time on feature engineering."
-            
-          )
+          FACT=$(shuf -n 1 facts.txt | tr -d '"')
+          echo "Selected: $FACT"
+          
+          sed -i '/<!-- KIRAT_DAILY_FACT_START -->/,/<!-- KIRAT_DAILY_FACT_END -->/c\<!-- KIRAT_DAILY_FACT_START -->\n<p align="center"><b>Today'"'"'s Fact:</b> '"$FACT"'</p>\n<!-- KIRAT_DAILY_FACT_END -->' README.md
 
-          RANDOM_INDEX=$((RANDOM % ${#facts[@]}))
-          echo "${facts[$RANDOM_INDEX]}" > fact.json
-
-      - name: Commit and push changes
+      - name: Commit & push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add fact.json
-          git commit -m "Updated daily DS fact" || echo "No changes to commit"
+          git config user.name "FactBot"
+          git config user.email "bot@github.com"
+          git add README.md
+          git commit -m "Updated daily fact 🤖" || exit 0
           git push
