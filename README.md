@@ -54,11 +54,11 @@
 ---
 ### Data Science Fact of the Day (Auto-updates daily!)
 <p align="center">
-  <img src="https://img.shields.io/badge/Dynamic_Fact-Loading...-blue?style=for-the-badge" alt="Loading fact..."/>
+  <img src="https://img.shields.io/badge/Data_Science_Fact_Live!-00ff00?style=for-the-badge" />
 </p>
-<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->
-<p align="center"><b>Today's Fact:</b> Loading first fact in a few seconds...</p>
-<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->
+<!-- REPLACE_ME_TODAYS_FACT -->
+<p align="center"><b>Today's Fact:</b> [Bot will replace this line daily]</p>
+<!-- END_REPLACE_ME -->
 
 ### 📊 GitHub Stats
 
