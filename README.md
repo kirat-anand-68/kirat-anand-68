@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
 <h3 align="center">Aspiring Data Analyst | CS Undergrad | Competitive Exam Aspirant</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirat-anand-68&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -8,7 +12,7 @@
 - 🎓 B.Tech Computer Science student, passionate about solving real-world problems with data and code.
 - 📊 Currently undergoing **Industrial Training in SQL & Power BI**.
 - 🧠 Learning and building projects in **EDA, Python, Machine Learning, and Web Development**.
-- 🎯 Preparing for **Competitive Exam **, with focus on DBMS, OS, DSA, CN, and Aptitude.
+- 🎯 Preparing for **Competitive Exams**, focusing on DBMS, OS, DSA, CN, and Aptitude.
 - 📘 I love exploring technologies like **LaTeX**, **scikit-learn**, and **Seaborn** for academic and data visualization tasks.
 
 ---
@@ -19,6 +23,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R%20Language-276DC3?logo=r&logoColor=white)
 
 #### 🧠 Data Science & ML
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -26,6 +31,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-teal)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
@@ -47,18 +53,21 @@
 
 ### 📌 Featured Projects
 
-- ☕ [Coffee Maker Machine](https://github.com/kirat-anand-68/coffee-maker) – OOPs-based simulation in Python
-- 📊 [Industrial Training: SQL + Power BI](https://github.com/kirat-anand-68/Industrial-Training) – Training logs and exercises
-- 📈 *More to come: Linear Regression, EDA projects, and ML models...*
+- ☕ [Coffee Maker Machine](https://github.com/kirat-anand-68/coffee-maker) – OOP-based simulation in Python  
+- 📊 [Industrial Training: SQL + Power BI](https://github.com/kirat-anand-68/Industrial-Training) – Training logs and exercises  
+- 📈 *More projects coming soon: Linear Regression, EDA projects, ML models...*
 
 ---
-### Data Science Fact of the Day (Auto-updates daily!)
+
+### 🔍 Daily Auto-Updating Data Science Fact
+
+> 📅 *This fact updates automatically every day!*
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Science_Fact_Live!-00ff00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Daily%20DS%20Fact&query=%24.fact&url=https://raw.githubusercontent.com/kirat-anand-68/daily-ds-facts/main/fact.json" width="600">
 </p>
-<!-- REPLACE_ME_TODAYS_FACT -->
-<p align="center"><b>Today's Fact:</b> [Bot will replace this line daily]</p>
-<!-- END_REPLACE_ME -->
+
+---
 
 ### 📊 GitHub Stats
 
@@ -70,5 +79,5 @@
 ---
 
 ### 📬 Connect with Me
-- Instagram- kirat_anand_2004
-- 📧 Email: kiratanad36@gmail.com/ kiratanand68@gmail.com
+- 📸 Instagram: **kirat_anand_2004**
+- 📧 Email: **kiratanad36@gmail.com**, **kiratanand68@gmail.com**
