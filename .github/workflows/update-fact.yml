@@ -2,7 +2,7 @@ name: Update Data Science Fact Daily
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # Runs daily at 12:00 AM IST (India time)
+    - cron: '30 18 * * *'   # Every day at 12:00 AM India time
   workflow_dispatch:
 
 jobs:
@@ -11,21 +11,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update daily fact
+      - name: Pick random fact and update README
         run: |
           FACT=$(shuf -n 1 facts.txt)
-          ESCAPED_FACT="${FACT//&/\\&}"
-          
-          # Replace the line between the placeholders
-          sed -i "/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/,/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/c\<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->\n<p align=\"center\"><b>Today's Fact:</b> $ESCAPED_FACT</p>\n<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->" README.md
-          
-          # Also update badge to show it's live
+          echo "Selected fact: $FACT"
+
+          # Properly escape for sed
+          ESCAPED_FACT=$(echo "$FACT" | sed 's/[&\/\\]/\\&/g' | sed 's/|/\\|/g')
+
+          # Replace the exact block between the two placeholder lines
+          perl -i -pe "BEGIN{undef $/;} s/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->.*?<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->\n<p align=\"center\"><b>Today's Fact:<\/b> $ESCAPED_FACT<\/p>\n<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/s" README.md
+
+          # Change badge color to green when live
           sed -i 's/Dynamic_Fact-Loading...-blue/Data Science Fact of the Day-00ff00/' README.md
 
-      - name: Commit & push if changed
+      - name: Commit and push
         run: |
           git config user.name "Daily Fact Bot"
-          git config user.email "bot@kirat.dev"
+          git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated daily data science fact" || exit 0
-          git push
+          git commit -m "Updated daily data science fact 🤖" || echo "No changes to commit"
+          git push || echo "No changes to push"
