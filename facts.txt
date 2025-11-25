@@ -49,3 +49,9 @@
 "Fact: VS Code has 70% market share among devs in 2023."
 "Fact: The first data warehouse built by Walmart in 1990s."
 "Fact: ML explainability (XAI) gained traction post-2018 GDPR."
+The term "Artificial Intelligence" was coined in 1956 at Dartmouth Conference
+Python became the #1 language for data science in 2019
+Netflix saves $1 billion per year using recommendation algorithms
+The first computer "bug" was an actual moth stuck in a relay in 1947
+XGBoost dominated 70%+ Kaggle competitions between 2015–2019
+Pandas was created by Wes McKinney in 2008 while working at AQR Capital
