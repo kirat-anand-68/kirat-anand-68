@@ -49,19 +49,3 @@
 "Fact: VS Code has 70% market share among devs in 2023."
 "Fact: The first data warehouse built by Walmart in 1990s."
 "Fact: ML explainability (XAI) gained traction post-2018 GDPR."
-The term "Artificial Intelligence" was coined in 1956 at Dartmouth Conference
-Python became the #1 language for data science in 2019
-Netflix saves $1 billion per year using recommendation algorithms
-The first computer "bug" was an actual moth stuck in a relay in 1947
-XGBoost dominated 70%+ Kaggle competitions between 2015–2019
-Pandas was created by Wes McKinney in 2008 while working at AQR Capital
-The first "computer bug" was an actual insect found in Harvard Mark II in 1947
-Python overtook R as the most popular data science language in 2019
-Netflix's recommendation engine saves them $1 billion annually
-XGBoost was used in winning solutions of 17 Kaggle competitions in 2015
-The term "Big Data" was popularized by John Mashey in the 1990s
-Pandas library was created by Wes McKinney while working at AQR Capital
-The MNIST dataset has been used in over 30,000 research papers
-Gradient descent was first proposed by Cauchy in 1847
-Deep Learning breakthrough came in 2012 with AlexNet on ImageNet
-K-Means clustering algorithm was published by Stuart Lloyd in 1957
