@@ -59,14 +59,15 @@
 
 ---
 
-### 🔍 Daily Auto-Updating Data Science Fact
 
-> 📅 *This fact updates automatically every day!*
-
+### Data Science Fact of the Day (Auto-updates daily!)
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Daily%20DS%20Fact&query=%24.fact&url=https://raw.githubusercontent.com/kirat-anand-68/daily-ds-facts/main/fact.json" width="600">
+  <img src="https://img.shields.io/badge/Data%20Science%20Fact-LIVE!-brightgreen?style=for-the-badge" />
 </p>
 
+<!-- KIRAT_DAILY_FACT_START -->
+<p align="center"><b>Today's Fact:</b> Bot is setting up the fact right now...</p>
+<!-- KIRAT_DAILY_FACT_END -->
 ---
 
 ### 📊 GitHub Stats
