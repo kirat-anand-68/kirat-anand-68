@@ -1,30 +1,28 @@
-name: Update Data Science Fact Daily
-
+name: Update Daily DS Fact
 on:
   schedule:
-    - cron: '30 18 * * *'   # Every day at 12:00 AM India time
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-fact:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Pick random fact and update README
+      - uses: actions/checkout@v3
+      - name: Generate new fact
         run: |
-          FACT=$(shuf -n 1 facts.txt)
-          echo "Selected fact: $FACT"
-          # Properly escape for sed
-          ESCAPED_FACT=$(echo "$FACT" | sed 's/[&\/\\]/\\&/g' | sed 's/|/\\|/g')
-          # Replace the exact block between the two placeholder lines
-          perl -i -pe "BEGIN{undef $/;} s/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->.*?<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->\n<p align=\"center\"><b>Today's Fact:<\/b> $ESCAPED_FACT<\/p>\n<!-- DAILY_FACT_PLACEHOLDER_DO_NOT_DELETE -->/s" README.md
-          # Change badge color to green when live
-          sed -i 's/Dynamic_Fact-Loading...-blue/Data Science Fact of the Day-00ff00/' README.md
-      - name: Commit and push
+          facts=(
+            "Machine learning models improve with more quality data."
+            "The term 'Data Science' was first coined in the 1960s."
+            "80% of data analysis time is spent on data cleaning."
+            "Python is the most widely used data science language."
+            "EDA helps you decide which ML model fits best."
+          )
+          echo "{\"fact\": \"${facts[$RANDOM % ${#facts[@]}]}\"}" > fact.json
+      - name: Commit changes
         run: |
-          git config user.name "Daily Fact Bot"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "Updated daily data science fact 🤖" || echo "No changes to commit"
-          git push || echo "No changes to push"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add fact.json
+          git commit -m "Daily fact updated" || exit 0
+          git push
