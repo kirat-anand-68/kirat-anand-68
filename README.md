@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Hugging Face's Transformers library exploded in 2018.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Overfitting in ML was first discussed in the 1970s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
