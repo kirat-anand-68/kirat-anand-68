@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Keras library simplifies deep learning since 2015.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Data visualization pioneer: Florence Nightingale's 1858 rose chart.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
