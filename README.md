@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Logistic Regression for binary classification since 1958.</p>
+<p align="center"><b>Today's Fact:</b> Fact: K-Means clustering was invented by James MacQueen in 1967.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
