@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirat Anand</h1>
-<h3 align="center">Aspiring Data Analyst | CS Undergrad | Competitive Exam Aspirant</h3>
+<h3 align="center">DATA------------DECISION-------------IMPACT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirat-anand-68&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
