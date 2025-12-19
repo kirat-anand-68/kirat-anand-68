@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: NLP's 'Bag of Words' model ignores grammar for speed.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Netflix uses ML to recommend 80% of what you watch.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
