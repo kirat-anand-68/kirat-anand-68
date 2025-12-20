@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Netflix uses ML to recommend 80% of what you watch.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The term 'Big Data' was coined in 2005 by Roger Magoulas.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
