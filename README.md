@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The term 'Big Data' was coined in 2005 by Roger Magoulas.</p>
+<p align="center"><b>Today's Fact:</b> Fact: NLP's 'Bag of Words' model ignores grammar for speed.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
