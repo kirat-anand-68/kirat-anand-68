@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Netflix uses ML to recommend 80% of what you watch.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Bootstrap resampling method from Efron in 1979.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
