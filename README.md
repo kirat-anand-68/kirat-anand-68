@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: LaTeX used for 80% of scientific papers.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Power BI was launched by Microsoft in 2011.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
