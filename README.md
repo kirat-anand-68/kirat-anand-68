@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Power BI was launched by Microsoft in 2011.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The Netflix Prize competition (2006-2009) advanced recommender systems.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
