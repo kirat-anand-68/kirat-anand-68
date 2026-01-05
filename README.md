@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The Netflix Prize competition (2006-2009) advanced recommender systems.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Decision Trees were invented by Morgan in 1948.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
