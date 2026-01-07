@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Random Forests were introduced by Leo Breiman in 2001.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Matplotlib inspired by MATLAB, created in 2003.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
