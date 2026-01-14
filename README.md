@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: VS Code has 70% market share among devs in 2023.</p>
+<p align="center"><b>Today's Fact:</b> Fact: SQL was developed at IBM in 1974.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
