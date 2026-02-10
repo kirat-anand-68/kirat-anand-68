@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Seaborn is built on Matplotlib for prettier plots.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Word2Vec embeddings from Google in 2013.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
