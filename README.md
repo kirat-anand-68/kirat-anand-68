@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Bootstrap resampling method from Efron in 1979.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Overfitting in ML was first discussed in the 1970s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
