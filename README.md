@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Hugging Face's Transformers library exploded in 2018.</p>
+<p align="center"><b>Today's Fact:</b> Fact: SQL was developed at IBM in 1974.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
