@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: NLP's 'Bag of Words' model ignores grammar for speed.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Bias-Variance tradeoff explained in Geman's 1992 paper.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
