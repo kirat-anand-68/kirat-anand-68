@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Apache Spark processes data 100x faster than Hadoop.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Principal Component Analysis (PCA) from Pearson in 1901.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
