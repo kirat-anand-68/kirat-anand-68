@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Naive Bayes classifier from Bayes' 1763 theorem.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The Turing Test for AI was proposed in 1950.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
