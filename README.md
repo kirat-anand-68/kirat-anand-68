@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The first data warehouse built by Walmart in 1990s.</p>
+<p align="center"><b>Today's Fact:</b> Fact: scikit-learn is inspired by Perl's ML modules.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
