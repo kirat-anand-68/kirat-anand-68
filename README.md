@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: scikit-learn is inspired by Perl's ML modules.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Random Forests were introduced by Leo Breiman in 2001.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
