@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Random Forests were introduced by Leo Breiman in 2001.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The first neural network, Perceptron, was built in 1958.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
