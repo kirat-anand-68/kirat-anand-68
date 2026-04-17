@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: NumPy's name comes from 'Numerical Python'.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Gradient Descent was formalized by Cauchy in 1847.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
