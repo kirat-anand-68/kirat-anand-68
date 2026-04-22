@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The 'Curse of Dimensionality' coined by Bellman in 1961.</p>
+<p align="center"><b>Today's Fact:</b> Fact: VS Code has 70% market share among devs in 2023.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
