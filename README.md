@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: K-Means clustering was invented by James MacQueen in 1967.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Overfitting in ML was first discussed in the 1970s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
