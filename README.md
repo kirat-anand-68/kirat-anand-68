@@ -66,7 +66,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Data visualization pioneer: Florence Nightingale's 1858 rose chart.</p>
+<p align="center"><b>Today's Fact:</b> Fact: LaTeX used for 80% of scientific papers.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
