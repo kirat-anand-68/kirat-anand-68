@@ -31,7 +31,15 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-teal)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-6A5ACD)
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/-RNN-8E44AD)
+![ANN](https://img.shields.io/badge/-ANN-16A085)
+![CNN](https://img.shields.io/badge/-CNN-E74C3C)
+![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-2C3E50)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
@@ -39,10 +47,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF4B4B?logo=gradio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 #### 🗃️ Database & BI Tools
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 #### 📄 Others
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
