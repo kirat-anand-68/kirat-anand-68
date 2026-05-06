@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Data Science job market grew 650% since 2012.</p>
+<p align="center"><b>Today's Fact:</b> Fact: XGBoost won 90% of Kaggle competitions by 2015.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
