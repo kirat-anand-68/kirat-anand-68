@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Naive Bayes classifier from Bayes' 1763 theorem.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The first data warehouse built by Walmart in 1990s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
