@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The first neural network, Perceptron, was built in 1958.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Apache Spark processes data 100x faster than Hadoop.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
