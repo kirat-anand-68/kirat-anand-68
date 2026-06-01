@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Tableau was founded in 2003 as a spin-off from Stanford.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Overfitting in ML was first discussed in the 1970s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
