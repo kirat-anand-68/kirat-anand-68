@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: VS Code has 70% market share among devs in 2023.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Reinforcement Learning roots in Bellman's 1950s work.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
