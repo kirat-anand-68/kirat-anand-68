@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Reinforcement Learning roots in Bellman's 1950s work.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Bias-Variance tradeoff explained in Geman's 1992 paper.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
