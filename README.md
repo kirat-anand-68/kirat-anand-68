@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Matplotlib inspired by MATLAB, created in 2003.</p>
+<p align="center"><b>Today's Fact:</b> Fact: scikit-learn is inspired by Perl's ML modules.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
