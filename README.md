@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: scikit-learn is inspired by Perl's ML modules.</p>
+<p align="center"><b>Today's Fact:</b> Fact: SQL was developed at IBM in 1974.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
