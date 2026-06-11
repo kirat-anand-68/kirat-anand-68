@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The first neural network, Perceptron, was built in 1958.</p>
+<p align="center"><b>Today's Fact:</b> Fact: LaTeX used for 80% of scientific papers.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
