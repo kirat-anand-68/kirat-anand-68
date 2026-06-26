@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Jupyter Notebooks named after Julia, Python, R.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Decision Trees were invented by Morgan in 1948.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
