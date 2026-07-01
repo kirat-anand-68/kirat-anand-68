@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: AutoML tools like Google AutoML launched in 2018.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Data visualization pioneer: Florence Nightingale's 1858 rose chart.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
