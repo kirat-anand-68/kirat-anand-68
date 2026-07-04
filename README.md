@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: scikit-learn is inspired by Perl's ML modules.</p>
+<p align="center"><b>Today's Fact:</b> Fact: EDA (Exploratory Data Analysis) term coined by Tukey in 1977.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
