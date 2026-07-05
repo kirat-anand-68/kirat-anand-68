@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: EDA (Exploratory Data Analysis) term coined by Tukey in 1977.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Word2Vec embeddings from Google in 2013.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
