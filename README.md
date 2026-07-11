@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Jupyter Notebooks named after Julia, Python, R.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The first data warehouse built by Walmart in 1990s.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
