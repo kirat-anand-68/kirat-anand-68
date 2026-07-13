@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The first data warehouse built by Walmart in 1990s.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Keras library simplifies deep learning since 2015.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
