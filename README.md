@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Keras library simplifies deep learning since 2015.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The first neural network, Perceptron, was built in 1958.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
