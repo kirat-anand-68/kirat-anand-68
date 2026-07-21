@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Overfitting in ML was first discussed in the 1970s.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Random Forests were introduced by Leo Breiman in 2001.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
