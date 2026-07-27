@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: SQL was developed at IBM in 1974.</p>
+<p align="center"><b>Today's Fact:</b> Fact: GANs (Generative Adversarial Networks) created by Goodfellow in 2014.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
