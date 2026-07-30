@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Decision Trees were invented by Morgan in 1948.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Hugging Face's Transformers library exploded in 2018.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
