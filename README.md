@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The first data warehouse built by Walmart in 1990s.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Tableau was founded in 2003 as a spin-off from Stanford.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
