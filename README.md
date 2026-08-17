@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: LaTeX used for 80% of scientific papers.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Word2Vec embeddings from Google in 2013.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
