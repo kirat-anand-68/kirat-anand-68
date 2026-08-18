@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Word2Vec embeddings from Google in 2013.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Data Science job market grew 650% since 2012.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
