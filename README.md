@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The 'Curse of Dimensionality' coined by Bellman in 1961.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Bootstrap resampling method from Efron in 1979.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
