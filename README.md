@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Python overtook R as the top data science language in 2019.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Linear Regression dates back to 1805 by Legendre.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
