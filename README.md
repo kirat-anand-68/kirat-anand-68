@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Seaborn is built on Matplotlib for prettier plots.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The 'Hello World' of ML is the MNIST digit dataset.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
