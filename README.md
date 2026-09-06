@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: GANs (Generative Adversarial Networks) created by Goodfellow in 2014.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The term 'Big Data' was coined in 2005 by Roger Magoulas.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
