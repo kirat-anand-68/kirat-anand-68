@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Netflix uses ML to recommend 80% of what you watch.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Cross-Validation technique from Stone in 1974.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
