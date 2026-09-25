@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Git, for version control, created by Torvalds in 2005.</p>
+<p align="center"><b>Today's Fact:</b> Fact: TensorFlow released by Google in 2015.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
