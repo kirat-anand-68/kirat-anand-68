@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: TensorFlow released by Google in 2015.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Jupyter Notebooks named after Julia, Python, R.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
