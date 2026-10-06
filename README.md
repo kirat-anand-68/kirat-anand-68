@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The Iris dataset, used in 1000s of ML tutorials, is from 1936.</p>
+<p align="center"><b>Today's Fact:</b> Fact: K-Means clustering was invented by James MacQueen in 1967.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
