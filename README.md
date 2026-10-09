@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: AutoML tools like Google AutoML launched in 2018.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Data Science job market grew 650% since 2012.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
