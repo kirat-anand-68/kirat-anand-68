@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: GANs (Generative Adversarial Networks) created by Goodfellow in 2014.</p>
+<p align="center"><b>Today's Fact:</b> Fact: K-Means clustering was invented by James MacQueen in 1967.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
