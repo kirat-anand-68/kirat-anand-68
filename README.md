@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Keras library simplifies deep learning since 2015.</p>
+<p align="center"><b>Today's Fact:</b> Fact: ML explainability (XAI) gained traction post-2018 GDPR.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
