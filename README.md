@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: ML explainability (XAI) gained traction post-2018 GDPR.</p>
+<p align="center"><b>Today's Fact:</b> Fact: NumPy's name comes from 'Numerical Python'.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
