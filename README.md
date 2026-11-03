@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Bootstrap resampling method from Efron in 1979.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Bias-Variance tradeoff explained in Geman's 1992 paper.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
