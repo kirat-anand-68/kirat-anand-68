@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Data Science job market grew 650% since 2012.</p>
+<p align="center"><b>Today's Fact:</b> Fact: K-Means clustering was invented by James MacQueen in 1967.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
