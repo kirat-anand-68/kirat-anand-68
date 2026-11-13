@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: D3.js revolutionized web viz in 2011.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Matplotlib inspired by MATLAB, created in 2003.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
