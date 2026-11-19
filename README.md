@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: Netflix uses ML to recommend 80% of what you watch.</p>
+<p align="center"><b>Today's Fact:</b> Fact: NumPy's name comes from 'Numerical Python'.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
