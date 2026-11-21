@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The Turing Test for AI was proposed in 1950.</p>
+<p align="center"><b>Today's Fact:</b> Fact: Pandas library in Python is named after 'Panel Data'.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
