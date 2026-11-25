@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: The term 'Big Data' was coined in 2005 by Roger Magoulas.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The Netflix Prize competition (2006-2009) advanced recommender systems.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
