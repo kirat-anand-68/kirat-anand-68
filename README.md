@@ -78,7 +78,7 @@
 </p>
 
 <!-- KIRAT_DAILY_FACT_START -->
-<p align="center"><b>Today's Fact:</b> Fact: XGBoost won 90% of Kaggle competitions by 2015.</p>
+<p align="center"><b>Today's Fact:</b> Fact: The Netflix Prize competition (2006-2009) advanced recommender systems.</p>
 <!-- KIRAT_DAILY_FACT_END -->
 ---
 
